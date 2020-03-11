@@ -82,7 +82,7 @@ Shader "TestShader/Fog"
 }
 /*ASEBEGIN
 Version=17800
-318;73;1278;747;761.0662;273.5948;1;True;True
+318;73;1278;747;1412.667;312.7616;1.11441;True;True
 Node;AmplifyShaderEditor.WorldSpaceCameraPos;4;-1443.99,520.4865;Inherit;False;0;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3
 Node;AmplifyShaderEditor.WorldPosInputsNode;3;-1441.771,382.6215;Inherit;False;0;4;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3
 Node;AmplifyShaderEditor.RangedFloatNode;8;-958.0174,471.6473;Inherit;False;Property;_TransitionDistance;Transition Distance;8;0;Create;True;0;0;False;0;20;20;0;0;0;1;FLOAT;0
@@ -107,4 +107,4 @@ WireConnection;12;1;2;0
 WireConnection;12;2;11;0
 WireConnection;0;15;12;0
 ASEEND*/
-//CHKSM=90B5D9C4192CBAA28A21C27C7ECE645550AC9D4A
+//CHKSM=B9A0387DB447F28CD49F87352036A3DD018FFCD0
